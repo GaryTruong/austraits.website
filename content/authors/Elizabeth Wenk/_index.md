@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW
+- name: UNSW Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,8 +63,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
--
+#user_groups:
+#-
 ---
 
-Lizzy is
+Lizzy is a postdoctoral researcher
